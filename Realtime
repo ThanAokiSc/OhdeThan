@@ -5,9 +5,18 @@ delayht = 150
 delayrandomworld = 10000
 idVial = 8542
 Limit_BotInfo = 2
+PNBinFarm = false
 TargetLevel = 999
 DelayRecon = 150000
 DelayBadServer = 150000
+KillGhost = false
+
+autobuypack = true
+hargapack = 20000
+namapack = "world_lock_10_pack"
+MinItemPack = 1
+iditempack = {242}
+MinGems = 20000
 
 if bot.level < 50 then
     JadwalOff = {
