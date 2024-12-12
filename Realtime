@@ -18,18 +18,8 @@ MinItemPack = 1
 iditempack = {242}
 MinGems = 20000
 
-if bot.level < 50 then
-    JadwalOff = {
-        "14.15 - 16.00",
-        "17.30 - 18.30"
-    }
-else
-    JadwalOff = { 
-        "14.15 - 16.00"
-    }
-end
-
 JadwalOff = {
-    "13.45 - 15.30"
+    "13.00 - 15.00"
+    "18.00 - 18.30"
 }
 
